@@ -13,8 +13,8 @@ This project is an example for using V-REP remote API in Python. It intends to b
 - An accurate enough robot with an arm to practice.
 
 ## Dependencies
-Python 2.7
-V-REP libraries
+- Python 2.7
+- V-REP libraries
 
 ## Useful links
 - Download V-REP : http://www.coppeliarobotics.com/downloads.html
